@@ -19,7 +19,7 @@ contract MyToken {
 
     // public variables here
     string public nameoftoken = "rainier"; 
-    string public nameofabbry = "nier";
+    string public nameofabbrv = "nier";
     uint public totalsupply = 0;
 
     // mapping variable here
